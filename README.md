@@ -1,1 +1,1 @@
-# vagrant-init-provisin
+# vagrant-init-provision
